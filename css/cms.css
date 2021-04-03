@@ -1,0 +1,36 @@
+
+
+.Category-sec h4
+{
+	font-size: 30px;
+}
+
+					.content-section
+					{
+					
+						margin:20px;
+					}
+
+					table
+					{
+						padding-top: 2px;
+						text-align: center;
+					}
+					.content-section td
+					{
+						
+						overflow: hidden;
+						width: 40px;
+						padding:60px;
+					}
+					.content-section table td img
+					{
+						height: 300px;
+						width: 250px;
+						padding: 2px;
+					}
+					.content-section img:hover
+					{
+						height: 310px;
+						width: 270px;
+					}
